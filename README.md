@@ -1,0 +1,3 @@
+# CGContextRefTest
+CGContextRefTestDemo
+项目中偶尔会遇到cell背景渐变或者view背景渐变的界面需求，偷懒解决的方法就是让UI妹纸给切个图拿来就用。但是如果项目中需要的渐变色比较多的话，显然切图是很不合适的，也容易使得项目的体积冗余。利用CGContextRef可以将图形或者字体绘制到需要展示的图层上。。。
